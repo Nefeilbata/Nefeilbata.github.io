@@ -26,7 +26,8 @@ Syntax highlighted code block
 -特别能睡
 -特别能干
 
-欢迎各路神仙朋友交流心得
+致谢
+感谢你花时间看完，欢迎各路神仙朋友交流心得
 
 - Bulleted
 - List
