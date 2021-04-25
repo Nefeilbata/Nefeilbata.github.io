@@ -21,6 +21,13 @@ Syntax highlighted code block
 -本科/沈阳师范大学/计算机科学与技术 2019-2022
 -技术博客:Nefeilbata.github.io
 
+自我评价
+-特别能吃
+-特别能睡
+-特别能干
+
+欢迎各路神仙朋友交流心得
+
 - Bulleted
 - List
 
